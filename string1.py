@@ -20,7 +20,7 @@ def donuts(count):
     if count >= 10:
          return 'Number of donuts: many'
     else:
-         return 'Number of donuts: ' + str(count)
+         return 'Number of donuts: ' + count
 
 
 # B. both_ends
